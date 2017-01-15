@@ -96,14 +96,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #0095eb;
+  color: #115740;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #005181;
+  color: #F0B323;
 }
 
 img,
@@ -387,7 +387,7 @@ article {
 }
 
 .article-metadata a:hover {
-  color: #0095eb;
+  color: #F0B323;
 }
 
 .article-list-item {
@@ -692,8 +692,8 @@ footer a#back_to_top i {
  **************************************************/
 
 .btn-primary {
-  border-color: #0095eb;
-  background: #0095eb;
+  border-color: #115740;
+  background: #115740;
 }
 
 .btn-primary:hover,
@@ -701,7 +701,7 @@ footer a#back_to_top i {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-  background: #0095eb;
+  background: #115740;
 }
 
 /*************************************************
@@ -743,8 +743,8 @@ footer a#back_to_top i {
 }
 
 .btn-primary.btn-outline {
-  color: #0095eb;
-  border-color: #0095eb;
+  color: #115740;
+  border-color: #115740;
 }
 
 .btn-success.btn-outline {
@@ -803,14 +803,14 @@ nav#navbar-main li {
   white-space: nowrap;
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
-  color: #34495e;
+  color: #115740;
   font-weight: 600;
 }
 
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
-  color: #0095eb;
+  color: #B9975B;
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
@@ -829,7 +829,7 @@ nav#navbar-main li {
   clear: both;
   font-weight: 400;
   line-height: 1.42857143;
-  color: #34495e;
+  color: #115740;
   white-space: nowrap;
 }
 
@@ -838,7 +838,7 @@ nav#navbar-main li {
 .dropdown-menu > .active > a:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #0095eb;
+  background-color: #115740;
   outline: 0;
 }
 
@@ -912,7 +912,7 @@ nav#navbar-main li {
     clear: both;
     font-weight: 400;
     line-height: 1.42857143;
-    color: #34495e;
+    color: #115740;
     white-space: nowrap;
   }
 
@@ -929,7 +929,7 @@ nav#navbar-main li {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     padding: 5px 15px 5px 25px;
     line-height: 20px;
-    color: #34495e;
+    color: #115740;
   }
 
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus,
@@ -941,7 +941,7 @@ nav#navbar-main li {
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
-    color: #0095eb;
+    color: #115740;
     background-color: transparent;
   }
 
