@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Immigration | ELYAS BAKHTIARI</title>
+    <link>https://elyasb.github.io/tag/immigration/</link>
+      <atom:link href="https://elyasb.github.io/tag/immigration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Immigration</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://elyasb.github.io/media/icon_hu3b0b65f43f3fdb0af4b0a9becee2b3fa_1190_512x512_fill_lanczos_center_3.png</url>
+      <title>Immigration</title>
+      <link>https://elyasb.github.io/tag/immigration/</link>
+    </image>
+    
+    <item>
+      <title>European Immigration and Patterns of Intra- and Interracial Mortality Inequality in the United States, 1900 to 1960</title>
+      <link>https://elyasb.github.io/publication/bakhtiari-2022-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://elyasb.github.io/publication/bakhtiari-2022-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unhealthy Trajectories: Race, Migration, and the Formation of Health Disparities in the United States</title>
+      <link>https://elyasb.github.io/publication/bakhtiari-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://elyasb.github.io/publication/bakhtiari-2016/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
