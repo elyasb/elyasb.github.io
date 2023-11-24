@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chapter | ELYAS BAKHTIARI</title>
+    <link>https://elyasb.github.io/publication-type/chapter/</link>
+      <atom:link href="https://elyasb.github.io/publication-type/chapter/index.xml" rel="self" type="application/rss+xml" />
+    <description>chapter</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://elyasb.github.io/media/icon_hu3b0b65f43f3fdb0af4b0a9becee2b3fa_1190_512x512_fill_lanczos_center_3.png</url>
+      <title>chapter</title>
+      <link>https://elyasb.github.io/publication-type/chapter/</link>
+    </image>
+    
+    <item>
+      <title>Migration and Health</title>
+      <link>https://elyasb.github.io/publication/bakhtiari-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://elyasb.github.io/publication/bakhtiari-2021/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Citizenship and Healthcare Policy</title>
+      <link>https://elyasb.github.io/publication/olafsdottir-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://elyasb.github.io/publication/olafsdottir-2015/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contextualizing Disparities: The Case for Comparative Research on Social Inequalities in Health</title>
+      <link>https://elyasb.github.io/publication/olafsdottir-2013/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://elyasb.github.io/publication/olafsdottir-2013/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
