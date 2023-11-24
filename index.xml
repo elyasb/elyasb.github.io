@@ -84,8 +84,7 @@
       <link>https://elyasb.github.io/publication/bakhtiari-2022-c/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://elyasb.github.io/publication/bakhtiari-2022-c/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -93,8 +92,7 @@
       <link>https://elyasb.github.io/publication/bakhtiari-2022/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://elyasb.github.io/publication/bakhtiari-2022/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -102,8 +100,7 @@
       <link>https://elyasb.github.io/publication/bakhtiari-2022-a/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://elyasb.github.io/publication/bakhtiari-2022-a/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -120,8 +117,7 @@
       <link>https://elyasb.github.io/publication/bakhtiari-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://elyasb.github.io/publication/bakhtiari-2021/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -209,8 +205,7 @@
       <link>https://elyasb.github.io/publication/bakhtiari-2020/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://elyasb.github.io/publication/bakhtiari-2020/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -317,7 +312,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-146589372&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-927534618&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -327,7 +322,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-146589372&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-927534618&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -737,8 +732,7 @@ $$&lt;/p&gt;
       <link>https://elyasb.github.io/publication/bakhtiari-2018-a/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://elyasb.github.io/publication/bakhtiari-2018-a/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -767,8 +761,7 @@ $$&lt;/p&gt;
       <link>https://elyasb.github.io/publication/bakhtiari-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://elyasb.github.io/publication/bakhtiari-2016/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -776,8 +769,7 @@ $$&lt;/p&gt;
       <link>https://elyasb.github.io/publication/olafsdottir-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://elyasb.github.io/publication/olafsdottir-2015/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -803,8 +795,7 @@ $$&lt;/p&gt;
       <link>https://elyasb.github.io/publication/beckfield-2013/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://elyasb.github.io/publication/beckfield-2013/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
