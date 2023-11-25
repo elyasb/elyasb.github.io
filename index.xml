@@ -108,8 +108,7 @@
       <link>https://elyasb.github.io/publication/bakhtiari-2021-b/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://elyasb.github.io/publication/bakhtiari-2021-b/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -312,7 +311,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-927534618&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-258647913&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -322,7 +321,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-927534618&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-258647913&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -786,8 +785,7 @@ $$&lt;/p&gt;
       <link>https://elyasb.github.io/publication/olafsdottir-2013/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://elyasb.github.io/publication/olafsdottir-2013/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
