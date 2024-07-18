@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>health disparities | ELYAS BAKHTIARI</title>
+    <title>Health Disparities | ELYAS BAKHTIARI</title>
     <link>https://elyasb.github.io/tag/health-disparities/</link>
       <atom:link href="https://elyasb.github.io/tag/health-disparities/index.xml" rel="self" type="application/rss+xml" />
-    <description>health disparities</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <description>Health Disparities</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://elyasb.github.io/media/icon_hu3b0b65f43f3fdb0af4b0a9becee2b3fa_1190_512x512_fill_lanczos_center_3.png</url>
-      <title>health disparities</title>
+      <title>Health Disparities</title>
       <link>https://elyasb.github.io/tag/health-disparities/</link>
     </image>
+    
+    <item>
+      <title>How Education Shapes Indigenous Health Inequalities in the USA and Mexico</title>
+      <link>https://elyasb.github.io/publication/perez-2024/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://elyasb.github.io/publication/perez-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diminished Returns in Europe: Socioeconomic Status and Ethno-Racial Health Disparities Across 30 Countries in the European Social Survey</title>
